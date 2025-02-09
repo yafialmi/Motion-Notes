@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25116014670",
+    "project_id": "notes-app-edd44",
+    "storage_bucket": "notes-app-edd44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25116014670:android:4efe962d831d83d37d6b1f",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3rfyKbYf3E9C0C9FBLjlvQOemr8GduQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
